@@ -1,12 +1,34 @@
-# Digital Marketing Internship Project
+SEO Audit of AMA Cafe
 
-## Project Overview
+Project Overview
 
-This repository contains the digital marketing projects completed during my internship with CODTECH.
+This project contains an SEO audit of AMA Cafe, Rajpur Road, Dehradun, completed as part of my CODTECH Digital Marketing Internship.
 
-## Tasks
+Business Details
 
-1. [SEO Audit of AMA Cafe](Task-1-SEO-Audit.md)
-2. [Social Media Strategy Plan](Task-2-Social-Media-Strategy.md)
-3. [Competitor Keyword Analysis](Task-3-Competitor-Keyword-Analysis.md)
-4. [YouTube Channel Strategy](Task-4-YouTube-Channel-Strategy.md)
+- Business: AMA Cafe
+- Location: Rajpur Road, Dehradun
+- Industry: Cafe / Food & Beverage
+
+Task 1
+
+SEO Audit of a Local Business
+
+The project covers:
+
+- Website SEO Audit
+- On-Page SEO
+- Technical SEO
+- Local SEO
+- Keyword Analysis
+- Competitor Analysis
+- SEO Recommendations
+
+Internet / Live Project Link
+
+Official Website:
+https://amacafe.co/
+
+Conclusion
+
+The audit identifies the main SEO strengths and areas for improvement of AMA Cafe and provides recommendations to improve its local search visibility in Dehradun.
